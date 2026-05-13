@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "2b556beef535d6c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cd3ac492be4cdc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b268c13552bd3321",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "双亲委派模型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "双亲委派模型"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7759930ae4802144",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e91eec4871dbc79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "070547b6abe17b2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "32fc143b6a3d7ce2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "849020aac2350015",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "11728f38c89d45e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2c79d04d6afe66b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "819ea6989486ce11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "双亲委派模型.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "双亲委派模型 的反向链接列表"
+            }
+          },
+          {
+            "id": "2aea9d62aa850b9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "86bb8130e0bd075d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "11e6598bf0ea7d85",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "070547b6abe17b2f",
+  "lastOpenFiles": [
+    "Maven 默认约定与规则.md",
+    "双亲委派模型.md",
+    "JVM 启动时的类加载基本流程.md",
+    "双亲委派模型（Parents Delegation Model）核心笔记.md",
+    "未命名 1.md",
+    "Welcome.md",
+    "create a link.md",
+    "2026-05-12.md",
+    "未命名 4.base",
+    "未命名 1.base",
+    "未命名 5.base",
+    "未命名 3.base",
+    "未命名 2.base",
+    "未命名.base",
+    "未命名 1.canvas",
+    "未命名.canvas"
+  ]
+}
